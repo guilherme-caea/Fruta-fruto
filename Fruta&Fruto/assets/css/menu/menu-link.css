@@ -1,0 +1,14 @@
+.menu-link{
+    color: #808080;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.menu-link:hover{
+    text-decoration: underline;
+}
+
+.menu-link.ativo{
+    color: #333333;
+    font-weight: bold;
+}

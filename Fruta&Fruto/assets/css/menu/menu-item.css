@@ -1,0 +1,8 @@
+.menu-item{
+    margin: 0 2em 0 0;
+    list-style: none;
+}
+
+.menu-item li:last-child .menu-link{
+    margin-right: 0;
+}
